@@ -1,8 +1,8 @@
-# Параллельное программирование
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-## Сведения о курсе
+# Параллельное Программирование
 
-Курс читался [Романом Елизаровым](https://github.com/elizarov) и [Никитой Коваль](https://github.com/ndkoval) в Университете ИТМО в 2019 году (year2017, 5 семестр).
+Курс подготовили и прочитали [Роман Елизаров](https://github.com/elizarov) и [Никита Коваль](https://github.com/ndkoval) в Университете ИТМО в 2019 году (year2017, 5 семестр).
 
 ## Домашние задания
 
