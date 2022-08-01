@@ -43,3 +43,48 @@
 [submodule "hw17"]
 	path = hw17
 	url = git@github.com:ITMO-MPP/blocking-stack-cannor147.git
+[submodule "hw01-possible-executions-analysis"]
+	path = hw01-possible-executions-analysis
+	url = git@github.com:cannor147/itmo-mpp-possible-executions-analysis.git
+[submodule "hw02-stack-elimination"]
+	path = hw02-stack-elimination
+	url = git@github.com:cannor147/itmo-mpp-stack-elimination.git
+[submodule "hw03-msqueue"]
+	path = hw03-msqueue
+	url = git@github.com:cannor147/itmo-mpp-msqueue.git
+[submodule "hw04-fine-grained-bank"]
+	path = hw04-fine-grained-bank
+	url = git@github.com:cannor147/itmo-mpp-fine-grained-bank.git
+[submodule "hw05-linked-list-set"]
+	path = hw05-linked-list-set
+	url = git@github.com:cannor147/itmo-mpp-linked-list-set.git
+[submodule "hw06-lamport-lock-fail"]
+	path = hw06-lamport-lock-fail
+	url = git@github.com:cannor147/itmo-mpp-lamport-lock-fail.git
+[submodule "hw07-dijkstra"]
+	path = hw07-dijkstra
+	url = git@github.com:cannor147/itmo-mpp-dijkstra.git
+[submodule "hw08-monotonic-clock"]
+	path = hw08-monotonic-clock
+	url = git@github.com:cannor147/itmo-mpp-monotonic-clock.git
+[submodule "hw09-universal-construction"]
+	path = hw09-universal-construction
+	url = git@github.com:cannor147/itmo-mpp-universal-construction.git
+[submodule "hw10-mcs-lock"]
+	path = hw10-mcs-lock
+	url = git@github.com:cannor147/itmo-mpp-mcs-lock.git
+[submodule "hw11-faa-queue"]
+	path = hw11-faa-queue
+	url = git@github.com:cannor147/itmo-mpp-faa-queue.git
+[submodule "hw12-synchronous-queue"]
+	path = hw12-synchronous-queue
+	url = git@github.com:cannor147/itmo-mpp-synchronous-queue.git
+[submodule "hw14-lock-free-bank"]
+	path = hw14-lock-free-bank
+	url = git@github.com:cannor147/itmo-mpp-lock-free-bank.git
+[submodule "hw15-stm-bank"]
+	path = hw15-stm-bank
+	url = git@github.com:cannor147/itmo-mpp-stm-bank.git
+[submodule "hw17-blocking-stack"]
+	path = hw17-blocking-stack
+	url = git@github.com:cannor147/itmo-mpp-blocking-stack.git

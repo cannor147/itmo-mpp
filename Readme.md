@@ -6,23 +6,23 @@
 
 ## Домашние задания
 
-1. Анализ возможных исполнений ([условия](https://github.com/ITMO-MPP/possible-executions-analysis))
-2. Stack with Elimination ([условия](https://github.com/ITMO-MPP/stack-elimination))
-3. Michael-Scott Lock-Free Queue ([условия](https://github.com/ITMO-MPP/msqueue))
-4. Синхронизация с помощью тонкой блокировки ([условия](https://github.com/ITMO-MPP/fine-grained-bank))
-5. Множество на основе односвязного списка ([условия](https://github.com/ITMO-MPP/linked-list-set))
-6. Ошибочный алгоритм Лампорта ([условия](https://github.com/ITMO-MPP/lamport-lock-fail))
-7. Parallel Dijkstra Algorithm ([условия](https://github.com/ITMO-MPP/dijkstra))
-8. Монотонные часы ([условия](https://github.com/ITMO-MPP/monotonic-clock))
-9. Универсальная Конструкция ([условия](https://github.com/ITMO-MPP/universal-construction))
-10. MCS Lock ([условия](https://github.com/ITMO-MPP/mcs-lock))
-11. FAA-Based Lock-Free Queue ([условия](https://github.com/ITMO-MPP/faa-queue))
-12. Synchronous Queue ([условия](https://github.com/ITMO-MPP/synchronous-queue))
+1. Анализ возможных исполнений ([условия](https://github.com/ITMO-MPP/possible-executions-analysis), [решения](hw01-possible-executions-analysis))
+2. Stack with Elimination ([условия](https://github.com/ITMO-MPP/stack-elimination), [решения](hw02-stack-elimination))
+3. Michael-Scott Lock-Free Queue ([условия](https://github.com/ITMO-MPP/msqueue), [решения](hw03-msqueue))
+4. Синхронизация с помощью тонкой блокировки ([условия](https://github.com/ITMO-MPP/fine-grained-bank), [решения](hw04-fine-grained-bank))
+5. Множество на основе односвязного списка ([условия](https://github.com/ITMO-MPP/linked-list-set), [решения](hw05-linked-list-set))
+6. Ошибочный алгоритм Лампорта ([условия](https://github.com/ITMO-MPP/lamport-lock-fail), [решения](hw06-lamport-lock-fail))
+7. Parallel Dijkstra Algorithm ([условия](https://github.com/ITMO-MPP/dijkstra), [решения](hw07-dijkstra))
+8. Монотонные часы ([условия](https://github.com/ITMO-MPP/monotonic-clock), [решения](hw08-monotonic-clock))
+9. Универсальная Конструкция ([условия](https://github.com/ITMO-MPP/universal-construction), [решения](hw09-universal-construction))
+10. MCS Lock ([условия](https://github.com/ITMO-MPP/mcs-lock), [решения](hw10-mcs-lock))
+11. FAA-Based Lock-Free Queue ([условия](https://github.com/ITMO-MPP/faa-queue), [решения](hw11-faa-queue))
+12. Synchronous Queue ([условия](https://github.com/ITMO-MPP/synchronous-queue), [решения](hw12-synchronous-queue))
 13. _Анализ возможных исполнений в модели памяти Java_ ([условия](https://github.com/ITMO-MPP/jmm-executions-analysis))
-14. Lock-Free Bank ([условия](https://github.com/ITMO-MPP/lock-free-bank))
-15. STM Bank ([условия](https://github.com/ITMO-MPP/stm-bank))
+14. Lock-Free Bank ([условия](https://github.com/ITMO-MPP/lock-free-bank), [решения](hw14-lock-free-bank))
+15. STM Bank ([условия](https://github.com/ITMO-MPP/stm-bank), [решения](hw15-stm-bank))
 16. _Lock-free hashtable_ ([условия](https://github.com/ITMO-MPP/hash-table))
-17. Blocking Stack ([условия](https://github.com/ITMO-MPP/stm-bank))
+17. Blocking Stack ([условия](https://github.com/ITMO-MPP/stm-bank), [решения](hw17-blocking-stack))
 
 ## Полезные ссылки
 
