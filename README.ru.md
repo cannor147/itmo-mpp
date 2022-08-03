@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-# Параллельное Программирование
+# Многопоточное Программирование
 
 Курс подготовили и прочитали [Роман Елизаров](https://github.com/elizarov) и [Никита Коваль](https://github.com/ndkoval) в Университете ИТМО в 2019 году (year2017, 5 семестр).
 

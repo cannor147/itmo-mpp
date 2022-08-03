@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-# Parallel and Concurrent Programming
+# Multithreading Programming
 
 Course was designed and taught by [Roman Elizarov](https://github.com/elizarov) и [Nikita Koval](https://github.com/ndkoval) at ITMO University in 2019 (year2017, 5th semester).
 
